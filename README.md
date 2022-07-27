@@ -7,9 +7,9 @@ A simple application that can convert mathematical notations to each other
 * prefix to infix and postfix 
 
 
-It also supports sin, cos, tan, cot, log, ln and sqrt function.
+It also supports sin, cos, tan, cot, log, ln and sqrt functions.
 
-unary minus operator is supported and shown with question mark.
+Unary minus operator is supported and shown with a question mark.
 
 # files
 <p> The main file is app.py. to run the programm you just need to run app.py.
