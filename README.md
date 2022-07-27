@@ -14,7 +14,7 @@ unary minus operator is supported and shown with question mark.
 # files
 <p> The main file is app.py. to run the programm you just need to run app.py.
   
-The convertor.py is just utility containing all the functions needed to do the conversion.
+The converter.py is just utility containing all the functions needed to do the conversion.
 </p>
 
 # requeirements
