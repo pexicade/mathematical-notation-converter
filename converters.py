@@ -1,8 +1,9 @@
-"""this is a utitlity script containg functions that convert between different Notations"""
+"""This is a utitlity script containg functions that convert between different Notations"""
+
+from __future__ import annotations
+import re
 
 from stack import Stack
-
-import re
 
 OPERATORS = ['+', '-', '*', '/', '^']
 PRECEDENECE = {'^': 3, '*': 2, '/': 2, '+': 1, '-': 1}
