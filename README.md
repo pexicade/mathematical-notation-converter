@@ -2,13 +2,9 @@
 A simple application that can convert mathematical notations to each other
 
 # convertions:
-infix to postfix and prefix
-
-
-postfix to infix and prefix
-
-
-prefix to infix and postfix 
+*infix to postfix and prefix
+*postfix to infix and prefix
+*prefix to infix and postfix 
 
 
 
