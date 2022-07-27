@@ -12,7 +12,7 @@ It also supports sin, cos, tan, cot, log, ln and sqrt functions.
 Unary minus operator is supported and shown with a question mark.
 
 # files
-<p> The main file is app.py. to run the programm you just need to run app.py.
+<p> The main file is app.py, to run the programm you just need to run app.py.
   
 The converter.py is just utility containing all the functions needed to do the conversion.
 </p>
